@@ -131,7 +131,7 @@ const BusinessCards: React.FC = () => {
                 <h3 className="text-xl font-semibold text-gray-900 mb-2">Your Profile URL</h3>
                 <p className="text-gray-600 mb-4">Share your professional profile with others</p>
                 <div className="bg-white px-4 py-3 rounded-lg border border-gray-200 font-mono text-sm">
-                  cardcraft.com/profile/{user?.username}
+                  https://business-cards-seven.vercel.app/profile/{user?.username}
                 </div>
               </div>
               <div>
